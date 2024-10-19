@@ -16,6 +16,7 @@ pip install -r requirements.txt
 ```
 ## Demonstration
 ![1_aeauHcJPbJnghjSNWO2RLA](https://github.com/user-attachments/assets/5ce2104e-6203-4105-b528-bf046d2f57fd)
+<br>
 https://medium.com/@minikiraniamayadharmasiri/micromouse-from-scratch-algorithm-maze-traversal-shortest-path-floodfill-741242e8510
 This maze image is from the article Micromouse from Scratch: Algorithm, Maze Traversal, Shortest Path, and Floodfill, which I referenced to create an example for this project. Thank you so much!
 
